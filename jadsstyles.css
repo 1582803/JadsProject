@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: rgb(255, 0, 0);
 }
 h1 {
     background–color: purple;
@@ -14,4 +14,8 @@ h1 {
     font-size: 28px;
     color: #FFA500;
     background-color: #000000
+}
+.babymonkeyfont {
+font-size: 40px;
+color: blanchedalmond;
 }
