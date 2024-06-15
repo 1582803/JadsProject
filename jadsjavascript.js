@@ -3,7 +3,8 @@ window.onload = function(){
 console.log('Hello world I am the js file');
 
 document.getElementById('jadsspecialsection').innerHTML = 'pizza';
-if (1 + 1 === 3){
+if (1 + 1 === 2){
+    document.getElementById('eatingdiv=to').innerHTML = 'wished I ate';
     document.getElementById('jadsspecialsection').innerHTML = 'burger';
 }
 
